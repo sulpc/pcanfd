@@ -1,0 +1,11 @@
+### mdk
+DebugConfig/
+*.uvoptx
+*.uvguix.*
+
+### obj
+output/
+
+### stm32cubeIDE
+Debug/
+.settings/

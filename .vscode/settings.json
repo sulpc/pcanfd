@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.defines": [
+        "STM32G431xx",
+        "PCAN_FD=1",
+        "INCLUDE_LIN_INTERFACE=0"
+    ],
+    "files.exclude": {
+        "**/Debug/": true
+    }
+}
